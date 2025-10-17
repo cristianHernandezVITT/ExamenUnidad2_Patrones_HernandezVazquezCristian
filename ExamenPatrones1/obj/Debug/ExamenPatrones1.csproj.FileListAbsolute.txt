@@ -1,0 +1,7 @@
+C:\Users\Papu\Desktop\Patrones\ExamenPatrones1\bin\Debug\ExamenPatrones1.exe.config
+C:\Users\Papu\Desktop\Patrones\ExamenPatrones1\bin\Debug\ExamenPatrones1.exe
+C:\Users\Papu\Desktop\Patrones\ExamenPatrones1\bin\Debug\ExamenPatrones1.pdb
+C:\Users\Papu\Desktop\Patrones\ExamenPatrones1\obj\Debug\ExamenPatrones1.csproj.AssemblyReference.cache
+C:\Users\Papu\Desktop\Patrones\ExamenPatrones1\obj\Debug\ExamenPatrones1.csproj.CoreCompileInputs.cache
+C:\Users\Papu\Desktop\Patrones\ExamenPatrones1\obj\Debug\ExamenPatrones1.exe
+C:\Users\Papu\Desktop\Patrones\ExamenPatrones1\obj\Debug\ExamenPatrones1.pdb
